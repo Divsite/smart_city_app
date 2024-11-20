@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/samsulhadi/Valet/flutters/flutter_projects/smart_city_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/share_plus.build/Objects-normal/arm64/share_plus-master.dia",
+    "emit-module-dependencies" : "/Users/samsulhadi/Valet/flutters/flutter_projects/smart_city_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/share_plus.build/Objects-normal/arm64/share_plus-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/samsulhadi/Valet/flutters/flutter_projects/smart_city_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/share_plus.build/Objects-normal/arm64/share_plus-master-emit-module.dia",
+    "swift-dependencies" : "/Users/samsulhadi/Valet/flutters/flutter_projects/smart_city_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/share_plus.build/Objects-normal/arm64/share_plus-master.swiftdeps"
+  },
+  "/Users/samsulhadi/.pub-cache/hosted/pub.dev/share_plus-9.0.0/macos/Classes/SharePlusMacosPlugin.swift" : {
+    "const-values" : "/Users/samsulhadi/Valet/flutters/flutter_projects/smart_city_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/share_plus.build/Objects-normal/arm64/SharePlusMacosPlugin.swiftconstvalues",
+    "dependencies" : "/Users/samsulhadi/Valet/flutters/flutter_projects/smart_city_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/share_plus.build/Objects-normal/arm64/SharePlusMacosPlugin.d",
+    "diagnostics" : "/Users/samsulhadi/Valet/flutters/flutter_projects/smart_city_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/share_plus.build/Objects-normal/arm64/SharePlusMacosPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/share_plus.build/Objects-normal/arm64/SharePlusMacosPlugin.o",
+    "llvm-bc" : "/Users/samsulhadi/Valet/flutters/flutter_projects/smart_city_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/share_plus.build/Objects-normal/arm64/SharePlusMacosPlugin.bc",
+    "object" : "/Users/samsulhadi/Valet/flutters/flutter_projects/smart_city_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/share_plus.build/Objects-normal/arm64/SharePlusMacosPlugin.o",
+    "swift-dependencies" : "/Users/samsulhadi/Valet/flutters/flutter_projects/smart_city_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/share_plus.build/Objects-normal/arm64/SharePlusMacosPlugin.swiftdeps",
+    "swiftmodule" : "/Users/samsulhadi/Valet/flutters/flutter_projects/smart_city_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/share_plus.build/Objects-normal/arm64/SharePlusMacosPlugin~partial.swiftmodule"
+  }
+}
